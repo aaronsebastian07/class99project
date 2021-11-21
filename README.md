@@ -1,2 +1,2 @@
-# class99project
-this is my class 99 project
+# Standard_deviation
+solution for c105
